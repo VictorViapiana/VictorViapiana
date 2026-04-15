@@ -16,13 +16,16 @@
 ## 💼 Projetos em destaque
 
 🔹 **Lead Classifier Automation**  
-Sistema de automação para classificação e priorização de leads comerciais.
+Sistema de automação para classificação e priorização de leads comerciais, com validação de dados e geração de relatórios para apoio ao time de vendas.
+
+🔹 **Organizador de Arquivos**  
+Automação em Python que organiza arquivos automaticamente em pastas com base em suas extensões, otimizando a gestão de arquivos e eliminando tarefas manuais repetitivas.
 
 🔹 **Sistema de Tarefas (CRUD)**  
-Gerenciamento de tarefas com persistência em JSON.
+Aplicação em Python com persistência em JSON para gerenciamento de tarefas.
 
 🔹 **API de Tarefas com Flask**  
-API REST para manipulação de dados.
+Desenvolvimento de uma API REST para criação, leitura, atualização e remoção de dados.
 
 ---
 
