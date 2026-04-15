@@ -29,10 +29,10 @@ Desenvolvimento de uma API REST para criação, leitura, atualização e remoç�
 
 ---
 
-## 📊 Estatísticas
+## 📫 Contato
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
-
+🔗 [GitHub](https://github.com/VictorViapiana)
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-viapiana/)
 ---
 
 ## 🌍 Idiomas
