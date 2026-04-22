@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Victor
+# 👋 Hi, I'm Victor
 
-💻 Desenvolvedor Python focado em automação e backend  
-🎯 Interesse em resolver problemas reais com tecnologia  
+💻 Python Developer focused on automation and backend  
+🎯 Passionate about solving real-world problems through technology 
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -13,23 +13,23 @@
 
 ---
 
-## 💼 Projetos em destaque
+## 💼 Featured Projects
 
 🔹 **Lead Classifier Automation**  
-Sistema de automação para classificação e priorização de leads comerciais, com validação de dados e geração de relatórios para apoio ao time de vendas.
+Automation system for commercial lead classification and prioritization, featuring data validation and report generation to support sales teams.
 
-🔹 **Organizador de Arquivos**  
-Automação em Python que organiza arquivos automaticamente em pastas com base em suas extensões, otimizando a gestão de arquivos e eliminando tarefas manuais repetitivas.
+🔹 **File Organizer**  
+Python automation that automatically organizes files into folders based on their extensions, optimizing file management and eliminating repetitive manual tasks.
 
-🔹 **Sistema de Tarefas (CRUD)**  
-Aplicação em Python com persistência em JSON para gerenciamento de tarefas.
+🔹 **Task Management System (CRUD)**  
+Python application with JSON persistence for task management.
 
-🔹 **API de Tarefas com Flask**  
-Desenvolvimento de uma API REST para criação, leitura, atualização e remoção de dados.
+🔹 **Task API with Flask**  
+Development of a REST API for creating, reading, updating, and removing data.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 🔗 [GitHub](https://github.com/VictorViapiana)
 🔗 [LinkedIn](https://www.linkedin.com/in/victor-viapiana/)
