@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Victor
 
-💻 Python Developer focused on automation, backend, and data analysis  
-📊 Transitioning into the Data field, working with SQL, MySQL, and Power BI  
-🎯 Passionate about solving real-world problems through technology and data
+💻 **Back-end & Full-Stack Developer** focused on scalable APIs (FastAPI, Django, Flask), automation, and advanced Web Scraping.<br>
+⚙️ **Data Engineering & ETL:** Building robust data pipelines with Python (Pandas) and SQL, and extracting actionable insights via Power BI.<br>
+🎯 **Problem Solver:** Passionate about engineering high-performance solutions, bypassing complex WAFs, and bridging robust back-end logic with responsive UI/UX.
 
 ---
 
