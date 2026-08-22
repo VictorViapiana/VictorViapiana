@@ -27,25 +27,25 @@
 🔹 **[Kaizen Stats 3D Platform](https://github.com/VictorViapiana/kaizen-stats-showcase)**<br>
 Advanced Full-Stack web application featuring an asynchronous Python (FastAPI) backend, MySQL database, and a JavaScript frontend with real-time 3D WebGL rendering and external API orchestration.
 
-🔹 **Bidding-portal-automation**<br>
+🔹 **[Bidding-portal-automation](https://github.com/VictorViapiana/bidding-portal-automation)**<br>
 An automated Web Scraping bot built with Python and Selenium to extract, filter, and format public tender opportunities from procurement portals into corporate Excel sheets.
 
-🔹 **Sales-analysis**  
+🔹 **[Sales-analysis](https://github.com/VictorViapiana/Sales-Analysis)**<br>
 Business intelligence project that turns raw sales data into clear insights using SQL and Power BI dashboards for decision-making support.
 
-🔹 **Lead Classifier Automation**  
+🔹 **[Lead Classifier Automation](https://github.com/VictorViapiana/lead-classifier-automation)**<br>
 Automation system for commercial lead classification and prioritization, featuring data validation and report generation to support sales teams.
 
-🔹 **File Organizer**  
+🔹 **[File Organizer](https://github.com/VictorViapiana/File-Organization-Automation)**<br>
 Python automation that automatically organizes files into folders based on their extensions, optimizing file management and eliminating repetitive manual tasks.
 
-🔹 **Task Management System (CRUD)**  
+🔹 **[Task Management System (CRUD)](https://github.com/VictorViapiana/Task-Management-System)**<br>
 Python application with JSON persistence for task management.
 
-🔹 **Task API with Flask**  
+🔹 **[Task API with Flask](https://github.com/VictorViapiana/Task-API-with-Flask)**<br>
 Development of a REST API for creating, reading, updating, and removing data.
 
-🔹 **Data Analysis with SQL**  
+🔹 **[Data Analysis with SQL](https://github.com/VictorViapiana/Data-Analysis-with-SQL)**<br>
 Projects focused on data extraction, filtering, aggregation, and analysis using SQL and relational databases.
 
 ---
