@@ -24,6 +24,9 @@
 
 ## 💼 Featured Projects
 
+🔹 **[Kaizen Stats 3D Platform](https://github.com/VictorViapiana/kaizen-stats-showcase)**<br>
+Advanced Full-Stack web application featuring an asynchronous Python (FastAPI) backend, MySQL database, and a JavaScript frontend with real-time 3D WebGL rendering and external API orchestration.
+
 🔹 **Bidding-portal-automation**<br>
 An automated Web Scraping bot built with Python and Selenium to extract, filter, and format public tender opportunities from procurement portals into corporate Excel sheets.
 
